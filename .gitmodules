@@ -1,0 +1,3 @@
+[submodule "comman-module"]
+	path = comman-module
+	url = https://github.com/Suman-Rajput/comman-module.git
